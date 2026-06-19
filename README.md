@@ -1,31 +1,103 @@
-<h1 align="center">Hi 👋, I'm Mahima gupta</h1>
-<h3 align="center">A passionate AI engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Mahima Gupta</h1>
+<h3 align="center">AI & Machine Learning Engineer | Generative AI Enthusiast | Python Developer</h3>
 
-- 🌱 I’m currently learning **llm**
-
-- 📫 How to reach me **guptamahima108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mahima-gupta-161443350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mahima-gupta-161443350" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@mahima-editzzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@mahima-editzzs" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahima-gupta108&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-## Hi there 👋
+---
 
-<!--
-**Mahima-gupta108/Mahima-gupta108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech student in Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Machine Learning, NLP, Generative AI, and LLM-powered applications
+
+🤖 Currently exploring:
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* LangChain
+* Prompt Engineering
+
+🌱 Building AI applications using Python, Streamlit, and Generative AI technologies
+
+📫 Reach me at: **[guptamahima108@gmail.com](mailto:guptamahima108@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* SQL
+* C++
+* C
+* JavaScript (Basics)
+
+### AI & Machine Learning
+
+* Machine Learning
+* NLP
+* Generative AI
+* Large Language Models (LLMs)
+* Data Analysis
+* Exploratory Data Analysis (EDA)
+
+### Libraries & Frameworks
+
+* NumPy
+* Pandas
+* Scikit-Learn
+* Matplotlib
+* Keras
+* Streamlit
+* LangChain
+
+### Tools & Platforms
+
+* Git & GitHub
+* Jupyter Notebook
+* Kore.ai
+* Render
+
+---
+
+## 📌 Featured Projects
+
+### 📄 PDF Q&A Chatbot
+
+RAG-based chatbot built using Python, LangChain, Gemini Embeddings, and Streamlit that enables users to upload PDF documents and ask context-aware questions.
+
+### 🎬 Movie Recommender System
+
+Machine Learning-powered recommendation system that provides personalized movie suggestions through an interactive Streamlit interface.
+
+### 📊 Netflix Data Analysis
+
+Performed exploratory data analysis on Netflix datasets to identify trends, content distribution, ratings, and viewing patterns.
+
+### 👨‍💼 Employee Management System
+
+Full-stack application for managing employee records with CRUD operations and database integration.
+
+---
+
+## 🏆 Certifications
+
+* Machine Learning Certification – Infosys
+* Data Science Internship – Unified Mentor
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/mahima-gupta-161443350
+* GitHub: github.com/Mahima-gupta108
+* Email: [guptamahima108@gmail.com](mailto:guptamahima108@gmail.com)
+
+---
+
+⭐ Always learning, building, and exploring the future of AI.
